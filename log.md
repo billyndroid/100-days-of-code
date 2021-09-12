@@ -28,3 +28,30 @@ Completed Survey Form
 **Link to work:**: https://billyndroid.github.io/survey-form/
 
 Thoughts: Landing page wil needs some extra effort styling. Will stick to parameters until met and passed tests and then add some fun styling animations, parallax, icons, etc)
+
+### Day 4: September 10 2021 
+**Today's Progress**: Added some styling to a few of the bare projects. 
+**Thoughts:** Will need to replace lorem and add a lot more styling, possibly even Bootstrap to the projects so far. Build them into the real-portfolio (link below) and start on next project for FreeCodeCamp JS course. I hope to start contacting people for work soon. I'll make myself known to Prodigi (a local development company that I'd like to work for) asap once feeling confident with JS. I'm going to build a project that utilises their own API and hope to hook employment that way. :D
+**Link to work:** https://github.com/billyndroid/real-portfolio 
+
+### Day 5: September 11 2021 
+
+**Today's Progress**: 
+Learned a bit more about what can be done with JS and already have began building the basic ideas - EG: drag and drop and crop images.
+
+**Link to work:**: https://github.com/billyndroid/real-portfolio
+
+**Thoughts:** It's really starting to click about what I can do (and not do) with javascript. But that's a good thing. Starting to understand that the huge list of requirements for jobs are not too difficult to obtain once one gets to grips with the basics. 
+
+### Day 6: September 12 2021 
+
+**Today's Progress**: 
+Completed Responsive Web Design module at FreeCodeCamp.
+**Link to work:**: https://www.freecodecamp.org/certification/billythedroid/responsive-web-design
+
+### Day 7: September 13 2021 
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** 
+
+Thoughts: Very happy to have finished and looking forward to the Javascript next. Javascript is already clicking and thoughts of what is next (React) occuring already. Am feeling very positive about this pursuit.
