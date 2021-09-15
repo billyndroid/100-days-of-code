@@ -56,12 +56,12 @@ Thoughts: Very happy to have finished and looking forward to the Javascript next
 **Thoughts:** Will do 2hrs learning new CSS everyday and 3hrs on FCC course.
 **Link to work:** https://www.freecodecamp.org/certification/billythedroid
 
-### Day 7: September 14 2021 
+### Day 8: September 14 2021 
 **Today's Progress**: 5 hours on Javascript course
 **Thoughts:** Making good progress but still a long way to go. 
 **Link to work:**: https://github.com/billyndroid/real-portfolio
 
-### Day 7: September 15 2021 
+### Day 9: September 15 2021 
 **Today's Progress**: Three hours on Javascript course and then some bootstrap/styling for real-portfolio project
 **Thoughts:** Struggled yesterday with JS functions but am more confident today that it will stick after a few times of going over it. 
 **Link to work:**: https://github.com/billyndroid/real-portfolio
