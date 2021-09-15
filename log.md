@@ -49,9 +49,9 @@ Learned a bit more about what can be done with JS and already have began buildin
 Completed Responsive Web Design module at FreeCodeCamp.
 **Link to work:**: https://www.freecodecamp.org/certification/billythedroid/responsive-web-design
 
-### Day 7: September 13 2021 
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** 
-
 Thoughts: Very happy to have finished and looking forward to the Javascript next. Javascript is already clicking and thoughts of what is next (React) occuring already. Am feeling very positive about this pursuit.
+
+### Day 7: September 14 2021 
+**Today's Progress**: 6hrs working on FreeCodeCamp Javascript Algorithms and Data Structures
+**Thoughts:** Will do 2hrs learning new CSS everyday and 3hrs on FCC course.
+**Link to work:** https://www.freecodecamp.org/certification/billythedroid
