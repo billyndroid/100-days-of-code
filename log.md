@@ -65,3 +65,13 @@ Thoughts: Very happy to have finished and looking forward to the Javascript next
 **Today's Progress**: Three hours on Javascript course and then some bootstrap/styling for real-portfolio project
 **Thoughts:** Struggled yesterday with JS functions but am more confident today that it will stick after a few times of going over it. 
 **Link to work:**: https://github.com/billyndroid/real-portfolio
+
+Day 10: September 16 2021
+**Today's Progress**: CSS animation to logo, sidebar menu, glassmorphism, bg image, 2 hrs Javascript FCC
+**Thoughts:** Had a few ideas about styling for portfolio but really need to press on with JS as much as possible to get to employment quicker.
+**Link to work:**: https://github.com/billyndroid/real-portfolio
+
+Day 11: September 17 2021
+**Today's Progress**:
+**Thoughts:** 
+**Link to work:**: https://github.com/billyndroid/real-portfolio
