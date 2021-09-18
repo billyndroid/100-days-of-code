@@ -75,3 +75,6 @@ Day 11: September 17 2021
 **Today's Progress**:
 **Thoughts:** 
 **Link to work:**: https://github.com/billyndroid/real-portfolio
+
+### Day 12: September 18 2021 
+HTML and CSS updates to real-portfolio. Started new project (building a JS game). Trying out PixiJS and Phaser and set-up web server (XAMPP) to prep. 2 HRS JS at FCC.org
