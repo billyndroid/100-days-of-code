@@ -78,3 +78,15 @@ Day 11: September 17 2021
 
 ### Day 12: September 18 2021 
 HTML and CSS updates to real-portfolio. Started new project (building a JS game). Trying out PixiJS and Phaser and set-up web server (XAMPP) to prep. 2 HRS JS at FCC.org
+### Day 13: September 19 2021 
+**Today's Progress**: 
+Read Jquery documentation at w3schools.org
+**Thoughts:** 
+Some days are just about keeping up/building the habit/discipline. Wasn't feeling it today so did some passive learning. It's good to switch it up anyway, freshens things up.
+### Day 14: September 20 2021 
+**Today's Progress**: 
+added jquery to canvas-game project. some css and html added. 4hrs JS Datastructures and Aglos at FCC
+**Thoughts:** 
+
+Struggled a little with switch statements on FCC.org but battled through and finally got it with a bit of googling. Was feeling despondant but had a breakthrough with JQuery and realised that a lot of the long list of skills required on applications and portfolios of others are pretty simple to grasp such as JQuery. Along with reference docs this should be pretty simple to use once I have the just of JS.
+**Link to work:**: https://github.com/billyndroid/canvas-game
