@@ -90,3 +90,34 @@ added jquery to canvas-game project. some css and html added. 4hrs JS Datastruct
 
 Struggled a little with switch statements on FCC.org but battled through and finally got it with a bit of googling. Was feeling despondant but had a breakthrough with JQuery and realised that a lot of the long list of skills required on applications and portfolios of others are pretty simple to grasp such as JQuery. Along with reference docs this should be pretty simple to use once I have the just of JS.
 **Link to work:**: https://github.com/billyndroid/canvas-game
+
+### Day 15: September 21 2021 
+**Today's Progress**: Reading up on documentation of canvas tag and 2d JS rendering. Added assets to first JS game. 
+**Thoughts:**
+The learning curve is incredibly high right now but I'm just trying to keep up the habit of coding and hopefully all this will fall into place sometime soon. 
+**Link to work:**: https://github.com/billyndroid/my-first-js-game
+
+### Day 16: September 22 2021 
+**Today's Progress**: Almost finished Basic Javascript element of FCC course. Estimate could finish whole course within 2-3 weeks at a push. Did some passive learning more about OOP to try and help this syntax/lines of code make more sense more as a.
+**Thoughts:** Waiting for that Eureka moment but persevereing until it happens. 
+**Link to work:**: https://github.com/billyndroid/my-first-js-game
+
+### Day 17: September 23 2021 
+**Today's Progress**:
+**Thoughts:** 
+**Link to work:**:
+
+### Day 18: September 24 2021 
+**Today's Progress**:
+**Thoughts:** 
+**Link to work:**:
+
+### Day 19: September 25 2021 
+**Today's Progress**:
+**Thoughts:** 
+**Link to work:**:
+
+### Day 20: September 26 2021 
+**Today's Progress**:
+**Thoughts:** 
+**Link to work:**:
