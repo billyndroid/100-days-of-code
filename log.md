@@ -120,4 +120,4 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 ### Day 20: September 26 2021 
 **Today's Progress**: experimented with Tailwind
 **Thoughts:** Am not really bothering with frameworks until I have a couple of projects that are as good as I can make them with "pure CSS". 
-**Link to work:**: 
+**Link to work:**: https://github.com/billyndroid/tailwind-practice
