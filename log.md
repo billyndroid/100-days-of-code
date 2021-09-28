@@ -121,3 +121,10 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 **Today's Progress**: experimented with Tailwind
 **Thoughts:** Am not really bothering with frameworks until I have a couple of projects that are as good as I can make them with "pure CSS". 
 **Link to work:**: https://github.com/billyndroid/tailwind-practice
+
+Day 21: September 27 2021
+**Today's Progress**: Passive learning with XD practice and JS, CSS documentation  @ w3schools
+**Thoughts:**
+
+Day 22: September 28 2021
+Day 23: September 29 2021
