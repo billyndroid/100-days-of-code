@@ -105,19 +105,19 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 ### Day 17: September 23 2021 
 **Today's Progress**: Worked on CSS and improving tribute page. 
 **Thoughts:** Will polish up a few of my projects. need them to look modern. 
-**Link to work:**:
+**Link to work:**: https://billyndroid.github.io/tribute-page/ 
 
 ### Day 18: September 24 2021 
 **Today's Progress**: working on parallax effect with ADOBE XD
 **Thoughts:** An easy programme to use. should have a grasp within one to two days.
-**Link to work:**:
+**Link to work:**:https://github.com/billyndroid/parallax-magic
 
 ### Day 19: September 25 2021 
 **Today's Progress**: improved readme
 **Thoughts:** Necessary to present gitghub professionally. It may mean the difference and help me stand out when I apply for work. 
-**Link to work:**:
+**Link to work:**: https://github.com/billyndroid/parallax-magic
 
 ### Day 20: September 26 2021 
 **Today's Progress**: experimented with Tailwind
 **Thoughts:** Am not really bothering with frameworks until I have a couple of projects that are as good as I can make them with "pure CSS". 
-**Link to work:**:
+**Link to work:**: 
