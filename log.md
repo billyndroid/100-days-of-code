@@ -108,16 +108,16 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 **Link to work:**:
 
 ### Day 18: September 24 2021 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: working on parallax effect with ADOBE XD
+**Thoughts:** An easy programme to use. should have a grasp within one to two days.
 **Link to work:**:
 
 ### Day 19: September 25 2021 
 **Today's Progress**: improved readme
-**Thoughts:** 
+**Thoughts:** Necessary to present gitghub professionally. It may mean the difference and help me stand out when I apply for work. 
 **Link to work:**:
 
 ### Day 20: September 26 2021 
 **Today's Progress**: experimented with Tailwind
-**Thoughts:** 
+**Thoughts:** Am not really bothering with frameworks until I have a couple of projects that are as good as I can make them with "pure CSS". 
 **Link to work:**:
