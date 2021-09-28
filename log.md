@@ -103,21 +103,21 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 **Link to work:**: https://github.com/billyndroid/my-first-js-game
 
 ### Day 17: September 23 2021 
-**Today's Progress**:
-**Thoughts:** 
+**Today's Progress**: Worked on CSS and improving tribute page. 
+**Thoughts:** Will polish up a few of my projects. need them to look modern. 
 **Link to work:**:
 
 ### Day 18: September 24 2021 
-**Today's Progress**:
+**Today's Progress**: 
 **Thoughts:** 
 **Link to work:**:
 
 ### Day 19: September 25 2021 
-**Today's Progress**:
+**Today's Progress**: improved readme
 **Thoughts:** 
 **Link to work:**:
 
 ### Day 20: September 26 2021 
-**Today's Progress**:
+**Today's Progress**: experimented with Tailwind
 **Thoughts:** 
 **Link to work:**:
