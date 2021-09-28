@@ -127,4 +127,7 @@ Day 21: September 27 2021
 **Thoughts:**
 
 Day 22: September 28 2021
+**Today's Progress**: Building animationtimeline design in XD to improve tribute page
+**Thoughts:** Want to get a couple of my early projects looking flashy. Investing the time now will save down the line.
+
 Day 23: September 29 2021
