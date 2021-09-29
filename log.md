@@ -131,3 +131,6 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 **Thoughts:** Want to get a couple of my early projects looking flashy. Investing the time now will save down the line.
 
 ### Day 23: September 29 2021
+**Today's Progress**: Collected reference photos to create my own icons. Made icons foro Tribute Page
+**Thoughts:** 
+
