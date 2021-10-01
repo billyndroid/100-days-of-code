@@ -134,3 +134,11 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 **Today's Progress**: Collected reference photos to create my own icons. Made icons foro Tribute Page
 **Thoughts:** 
 
+### Day 24: September 30 2021
+**Today's Progress**: Continued with design of Tribute Page made in Adobe XD. 
+**Thoughts:** Will add animation and update README for Tribute Page with design recording, then code CSS. Following that will complete parallax magic site. Will regularly (daily) learn more JS as I go but the JS will take time to grasp and I must still keep the habit of coding as I progress. Although I have experience using Adobe CC, I'm finding it a distraction but in the end it's important that my site looks great. Also, this work will pay off in the future as I can document the process for portfolio. 
+
+### Day 25: October 1 2021
+**Today's Progress**: Continued with design of Tribute Page made in Adobe XD. Animated and recorded movie, updated log. Also completed up to Javascript Basics at The Odin Project (haven't quite finished the simple projects but will as I go. _
+**Thoughts:**
+My plan is to produce some great designs/static sites alongside learning JS. I can always add a few on-click eg simple scripts as I learn more complex JS and OOP. These sites can be used as portfolio pieces. Also work on overall portfolio. Can: Write content, Write HTML and Write CSS in preparation for the JS Stuff. Once I get these done I will start marketing myself for freelance and applying for Junior roles. 
