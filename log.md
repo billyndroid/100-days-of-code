@@ -141,4 +141,34 @@ The learning curve is incredibly high right now but I'm just trying to keep up t
 ### Day 25: October 1 2021
 **Today's Progress**: Continued with design of Tribute Page made in Adobe XD. Animated and recorded movie, updated log. Also completed up to Javascript Basics at The Odin Project (haven't quite finished the simple projects but will as I go. _
 **Thoughts:**
-My plan is to produce some great designs/static sites alongside learning JS. I can always add a few on-click eg simple scripts as I learn more complex JS and OOP. These sites can be used as portfolio pieces. Also work on overall portfolio. Can: Write content, Write HTML and Write CSS in preparation for the JS Stuff. Once I get these done I will start marketing myself for freelance and applying for Junior roles. 
+My plan is to produce some great designs/static sites alongside learning JS. I can always add a few on-click eg simple scripts as I learn more complex JS and OOP. These sites can be used as portfolio pieces. Also work on overall portfolio. Can: Write content, Write HTML and Write CSS in preparation for the JS Stuff. Once I get these done I will start marketing myself for freelance and applying for Junior roles.
+
+### Day 26: October 2 2021
+**Today's Progress**:
+Started JS Beginner course at Odin Project (as I found FCC so helpful
+**Thoughts:** Continued straight onto the JS course after completing the Responsive Web Design course.Got a little stuck on FCC JS course so have returned to Odin Project and going over the documents. Reminder to self - Do not skip ahead. 
+https://github.com/billyndroid/odin-recipes
+
+### Day 27: October 3 2021
+**Today's Progress**: Odin Project again. Mostly practicing basics but have picked up a few things that I missed. Hopefully, by the time I get to continue the course at FCC my knowledge gaps will be filled. Don't let confidence get knocked. There is always something simpler to solve while you consider a problem that is diffcult. 
+**Link to work:** https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-1
+
+### Day 28: October 4 2021 
+**Today's Progress**: Missed a day  
+ **Thoughts:**Not going to let this effect me. Been putting in long hours so a day won't derail this mission!
+ **Link to work:**
+
+### Day 29: October 5 2021
+**Today's Progress**: Continuing with online learning at the Odin Project 
+**Thoughts**
+**Link to work:**
+
+### Day 30: October 6 2021 
+**Today's Progress**:  
+ **Thoughts:**
+ **Link to work:**
+ 
+ ### Day 31 October 7 2021 
+ **Today's Progress**:  
+ **Thoughts:**
+ **Link to work:**
