@@ -164,9 +164,9 @@ https://github.com/billyndroid/odin-recipes
 **Link to work:**
 
 ### Day 30: October 6 2021 
-**Today's Progress**:  
- **Thoughts:**
- **Link to work:**
+**Today's Progress**:  Completed JS Fundamentals 1 at The Odin  Project
+ **Thoughts:** Moved onto Fundamentals 2 and think that this section will be my biggest learning curve and I have covered the basics to know that I'm ready. Switching back from FCC was the right decision and I seem to be making more of them as I go. Seem able to switch it up to freshen up my learning pretty well at this point. Look forward to tackling FreeCodeCamp JS foundations again once I've gone over these basics. such as conditionals etc. 
+ **Link to work:** https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-2
  
  ### Day 31 October 7 2021 
  **Today's Progress**:  
