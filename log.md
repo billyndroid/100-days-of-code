@@ -169,6 +169,6 @@ https://github.com/billyndroid/odin-recipes
  **Link to work:** https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-2
  
  ### Day 31 October 7 2021 
- **Today's Progress**:  
- **Thoughts:**
- **Link to work:**
+ **Today's Progress**:  Landing Page project at Odin Project
+ **Thoughts:** Will be decent landing page project when  completed.
+ **Link to work:** https://github.com/billyndroid/landing-page
