@@ -172,3 +172,8 @@ https://github.com/billyndroid/odin-recipes
  **Today's Progress**:  Landing Page project at Odin Project
  **Thoughts:** Will be decent landing page project when  completed.
  **Link to work:** https://github.com/billyndroid/landing-page
+ 
+  ### Day 32 October 8 2021 
+ **Today's Progress**:  Continued with CSS styling of Landing Page for Odin Project
+ **Thoughts:** Got stuck on flexbox stuff for way too long. Never forget flex container must be declared such with - display:flex;
+ **Link to work:** https://billyndroid.github.io/landing-page/
