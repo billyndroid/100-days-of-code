@@ -177,3 +177,23 @@ https://github.com/billyndroid/odin-recipes
  **Today's Progress**:  Continued with CSS styling of Landing Page for Odin Project
  **Thoughts:** Got stuck on flexbox stuff for way too long. Never forget flex container must be declared such with - display:flex;
  **Link to work:** https://billyndroid.github.io/landing-page/
+ 
+ ### Day 33: October 9 2021
+**Today's Progress**: Continuing with online learning at the Odin Project 
+**Thoughts** 
+**Link to work:** N/A
+
+### Day 34: October 11 2021
+**Today's Progress**: Flexbox at the odin project
+**Thoughts** Learning a lot the second time that I missed the first time. 
+**Link to work:** N/A
+
+### Day 35: October 12 2021
+**Today's Progress**: Completed Odin Project HTML and CSS modules. 
+**Thoughts** From now on will mostly be learning JS until I can crack it.
+**Link to work:** N/A
+ 
+### Day 36: October 13 2021
+**Today's Progress**: Continuing with online learning at the Odin Project. JS Fundamentals need to be worked on. This is now the only goal.
+**Thoughts** Low on commits but working hard
+**Link to work:** N/A
